@@ -1,2 +1,3 @@
 # New project
-This is project was created from local system
+This project was created from local system.
+some minor changes 27/Nov.
